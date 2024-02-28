@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*header.jsp 관련 커스텀*/
+.user-info {
+	color: #FFA500;
+	/* 밝은 주황색 */
+	margin-right: 10px;
+}
+
+.logout-btn {
+	background-color: #f8f9fa;
+	border: 1px solid #ddd;
+	padding: 5px 10px;
+	text-decoration: none;
+	color: #333;
+	font-size: 14px;
+	border-radius: 4px;
+}
